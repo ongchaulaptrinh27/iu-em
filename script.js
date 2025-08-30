@@ -31,7 +31,7 @@ const texts = [
   "2",
   "1",
   "Em đồng ý",
-  "Ở bênh", 
+  "Ở bên", 
   "chị ", 
   "thật lâu nha",
   "iu em ",
@@ -219,4 +219,5 @@ lastChangeTime = Date.now();
 lastCharTime = Date.now();
 
 setInterval(drawMatrixRain, 50);
+
 
